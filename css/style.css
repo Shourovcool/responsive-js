@@ -186,7 +186,7 @@ html {
 }
 
 .form {
-    max-width: 500px;
+    max-width: 50%;
     margin: 25px auto;
 }
 
@@ -288,5 +288,9 @@ footer a {
 
     .paras {
         padding: 0;
+    }
+
+    footer {
+        padding: 0 20px;
     }
 }
